@@ -1,0 +1,24 @@
+import { createFromRoot, updateAccountsVisitor } from "codama";
+import { renderVisitor } from "@codama/renderers-js";
+import { rootNodeFromAnchor } from "@codama/nodes-from-anchor";
+import { readFileSync } from "fs";
+
+const idl = JSON.parse(readFileSync("../../target/idl/whirlpool.json", "utf8"));
+// IDL generated with anchor 0.29 does not have the metadata field so we have to add it manually
+const node = rootNodeFromAnchor({
+  ...idl,
+  metadata: {
+    address: "8rN4d8yN8TjMYtxJ7mELv6y1L3MQnm6SM7xGTC7dTVEu",
+    origin: "anchor",
+  },
+});
+const visitor = renderVisitor("./src/generated");
+const codama = createFromRoot(node);
+codama.update(
+  updateAccountsVisitor({
+    TickArray: {
+      name: "FixedTickArray",
+    },
+  }),
+);
+codama.accept(visitor);
