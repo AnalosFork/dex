@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@solana-program/address-lookup-table": "^0.7.0",
-    "@solana-program/compute-budget": "^0.7.0",
+    "@solana-program/compute-budget": "^0.8.0",
     "@solana-program/system": "^0.7.0"
   },
   "peerDependencies": {
