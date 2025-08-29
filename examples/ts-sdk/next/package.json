@@ -19,7 +19,7 @@
     "@next/bundle-analyzer": "^15.2.4",
     "@types/node": "^22.14.0",
     "@types/react": "^19.1.11",
-    "copy-webpack-plugin": "^13.0.0",
+    "copy-webpack-plugin": "^13.0.1",
     "typescript": "^5.8.2",
     "webpack": "^5.101.3"
   }
