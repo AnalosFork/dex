@@ -11,7 +11,7 @@
     "@orca-so/whirlpools": "*"
   },
   "devDependencies": {
-    "tsx": "^4.19.3",
+    "tsx": "^4.20.5",
     "typescript": "^5.8.2"
   }
 }
