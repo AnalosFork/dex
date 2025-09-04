@@ -20,7 +20,7 @@
     "@orca-so/whirlpools-program": "*",
     "@solana/spl-token": "^0.4.13",
     "@solana/web3.js": "^1.98.4",
-    "@types/bn.js": "~5.1.6",
+    "@types/bn.js": "~5.2.0",
     "@types/jest": "^29.5.14",
     "typescript": "^5.8.2"
   },
