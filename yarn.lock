@@ -4143,7 +4143,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@orca-so/tx-sender@workspace:ts-sdk/tx-sender"
   dependencies:
-    "@solana-program/address-lookup-table": "npm:^0.7.0"
+    "@solana-program/address-lookup-table": "npm:^0.8.0"
     "@solana-program/compute-budget": "npm:^0.8.0"
     "@solana-program/system": "npm:^0.7.0"
     "@solana/kit": "npm:^3.0.0"
@@ -4717,12 +4717,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@solana-program/address-lookup-table@npm:^0.7.0":
-  version: 0.7.0
-  resolution: "@solana-program/address-lookup-table@npm:0.7.0"
+"@solana-program/address-lookup-table@npm:^0.8.0":
+  version: 0.8.0
+  resolution: "@solana-program/address-lookup-table@npm:0.8.0"
   peerDependencies:
-    "@solana/kit": ^2.1.0
-  checksum: 10c0/5832582b3768dfae5770176fb9ce3ec0dacc76f754664c757c565a7d7c5f10cbd5eaa2a1d2d8dbe058309e66618bb0e9fda078cbef8816ecd18020c195b67166
+    "@solana/kit": ^3.0
+  checksum: 10c0/6e3324a947b62e2a22e18c249d06557de5a5ee10eb69f988fa256956d3dcdfacefbea2596cd7dc1ad1b1e712a487947837dd453889cd2b23ee64a85643c8a5b6
   languageName: node
   linkType: hard
 
