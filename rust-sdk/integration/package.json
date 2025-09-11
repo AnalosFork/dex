@@ -11,7 +11,7 @@
     "@orca-so/whirlpools-rust": "*",
     "@orca-so/whirlpools-rust-client": "*",
     "@orca-so/whirlpools-rust-core": "*",
-    "@types/semver": "^7.7.0",
+    "@types/semver": "^7.7.1",
     "semver": "^7.7.2",
     "smol-toml": "^1.4.2",
     "typescript": "^5.8.2"
