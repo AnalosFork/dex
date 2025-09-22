@@ -44,7 +44,7 @@
   "devDependencies": {
     "@solana/kit": "^3.0.0",
     "solana-bankrun": "^0.4.0",
-    "typescript": "^5.8.2"
+    "typescript": "^5.9.2"
   },
   "repository": {
     "type": "git",
