@@ -4243,7 +4243,7 @@ __metadata:
   dependencies:
     "@solana-program/address-lookup-table": "npm:^0.8.0"
     "@solana-program/compute-budget": "npm:^0.8.0"
-    "@solana-program/system": "npm:^0.7.0"
+    "@solana-program/system": "npm:^0.8.1"
     "@solana/kit": "npm:^3.0.0"
     tsup: "npm:^8.5.0"
     typescript: "npm:^5.9.2"
@@ -4515,7 +4515,7 @@ __metadata:
     "@orca-so/whirlpools-client": "npm:*"
     "@orca-so/whirlpools-core": "npm:*"
     "@solana-program/memo": "npm:^0.8.0"
-    "@solana-program/system": "npm:^0.7.0"
+    "@solana-program/system": "npm:^0.8.1"
     "@solana-program/token": "npm:^0.6.0"
     "@solana-program/token-2022": "npm:^0.5.0"
     "@solana/kit": "npm:^3.0.0"
@@ -4842,12 +4842,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@solana-program/system@npm:^0.7.0":
-  version: 0.7.0
-  resolution: "@solana-program/system@npm:0.7.0"
+"@solana-program/system@npm:^0.8.1":
+  version: 0.8.1
+  resolution: "@solana-program/system@npm:0.8.1"
   peerDependencies:
-    "@solana/kit": ^2.1.0
-  checksum: 10c0/0316a6f5359a79b7d070358bf5b7443ff99419f2b7120f78fe625861925b227c7129fa9c2d88c53a8731630032777491e25e8cf6c0711f92fe956d90d40b5662
+    "@solana/kit": ^3.0
+  checksum: 10c0/2cf5ced9e587df76e17dcfdabaf5d3c77ddd5fdf5273cc1efa9ddebb23bfe4bbe9b3e7136d1af17b7f5c99194a01a1cb585022928b32b95552f70d749b5e841b
   languageName: node
   linkType: hard
 
