@@ -34,10 +34,10 @@
     "@solana-program/system": "^0.8.1"
   },
   "peerDependencies": {
-    "@solana/kit": "^3.0.0"
+    "@solana/kit": "^4.0.0"
   },
   "devDependencies": {
-    "@solana/kit": "^3.0.0",
+    "@solana/kit": "^4.0.0",
     "tsup": "^8.5.0",
     "typescript": "^5.9.2"
   },
