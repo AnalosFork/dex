@@ -4070,12 +4070,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@next/bundle-analyzer@npm:^15.5.3":
-  version: 15.5.3
-  resolution: "@next/bundle-analyzer@npm:15.5.3"
+"@next/bundle-analyzer@npm:^15.5.4":
+  version: 15.5.4
+  resolution: "@next/bundle-analyzer@npm:15.5.4"
   dependencies:
     webpack-bundle-analyzer: "npm:4.10.1"
-  checksum: 10c0/a2550c937d199b21128df8337ef835a1ebec39542cdb2d48f9a75ffc3ed739822eb9b56442782ec32dcdece2425593df4df1703f381c56dae50a2e7eacf494fe
+  checksum: 10c0/aaed6fe9cca34b12fdbf8840700ef2c6fb559b67a9a85aaf9bb6892fbce8971cfa14cd53f07f86dc57b33d129f24240a8cd4c63c0650f5096d643dc3ad8cb7c3
   languageName: node
   linkType: hard
 
@@ -4428,7 +4428,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@orca-so/whirlpools-example-ts-next@workspace:examples/ts-sdk/next"
   dependencies:
-    "@next/bundle-analyzer": "npm:^15.5.3"
+    "@next/bundle-analyzer": "npm:^15.5.4"
     "@orca-so/whirlpools": "npm:*"
     "@solana/kit": "npm:^4.0.0"
     "@types/node": "npm:^24.5.2"
