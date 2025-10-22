@@ -21,6 +21,6 @@
     "@types/react": "^19.1.11",
     "copy-webpack-plugin": "^13.0.1",
     "typescript": "^5.9.2",
-    "webpack": "^5.101.3"
+    "webpack": "^5.102.1"
   }
 }
