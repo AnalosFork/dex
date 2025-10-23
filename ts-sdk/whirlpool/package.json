@@ -36,7 +36,7 @@
     "@solana-program/system": "^0.8.1",
     "@solana-program/token": "^0.6.0",
     "@solana-program/token-2022": "^0.6.0",
-    "@solana/sysvars": "^3.0.1"
+    "@solana/sysvars": "^4.0.0"
   },
   "peerDependencies": {
     "@solana/kit": "^4.0.0"
