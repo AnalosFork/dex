@@ -32,7 +32,7 @@
     "@solana/kit": "^4.0.0"
   },
   "devDependencies": {
-    "@codama/nodes-from-anchor": "^1.2.8",
+    "@codama/nodes-from-anchor": "^1.2.9",
     "@codama/renderers-js": "^1.4.3",
     "@orca-so/whirlpools-program": "*",
     "@solana/kit": "^4.0.0",
